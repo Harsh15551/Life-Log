@@ -3,8 +3,6 @@ import { useDispatch } from 'react-redux'
 import { useNavigate } from 'react-router-dom'
 
 import { toast } from 'react-toastify'
-import { FcGoogle } from 'react-icons/fc'
-import { FaGithub, FaFacebookF } from 'react-icons/fa'
 
 import { signUp } from '../../services/auth'
 
